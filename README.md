@@ -1,2 +1,2 @@
-# to-do-list
-first CRUD project on ReactJS
+# ToDo List
+A project for MIT xPRO. First CRUD project on ReactJS.
